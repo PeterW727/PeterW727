@@ -21,6 +21,7 @@ I am a Cybersecurity candidate with an analytical mind and the ability to break 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/msdos/msdos-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src = "https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/maven/maven-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Ghidra_logo.svg/1200px-Ghidra_logo.svg.png"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src = "https://static.vecteezy.com/system/resources/previews/021/496/368/non_2x/ios-icon-logo-software-phone-apple-symbol-with-name-black-design-mobile-illustration-free-vector.jpg"/>
