@@ -39,8 +39,9 @@ I am a Cybersecurity candidate with an analytical mind and the ability to break 
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jarpletz&repo=PrimeTimeHotel&theme=buefy" />
 </a>
 <a href="https://github.com/PeterW727/Arbitrage-Finder">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=peterw727&repo=Arbitrage-Finder&theme=buefy" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PeterW727&repo=Arbitrage-Finder&theme=buefy" />
 </a>
+
 
 
 <br />
