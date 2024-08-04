@@ -1,6 +1,6 @@
 # Welcome to Peter Whitcomb's Profile
 
-**Computer Science Major at Baylor University with a Concentration in Cybersecurity**
+**Computer Science Major with a Concentration in Cybersecurity and Minor in Math at Baylor University**
 
 I am a Cybersecurity candidate with an analytical mind and the ability to break down and solve complex problems. Strong communication skills with a strong mathematical foundation. Have the Ability to learn new concepts and technologies quickly with a consistent record of meeting project deadlines. Interests in cybersecurity, programming, and software development. Passionately seeking a Summer 2024 Internship.
 
