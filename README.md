@@ -9,11 +9,6 @@ I am a Cybersecurity candidate with an analytical mind and the ability to break 
 <p align="center">
   
   <a href="https://www.linkedin.com/in/peter-whitcomb/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-
-<!--   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="http://eyl327.mywebcommunity.org/promos/"><img width="32px" alt="Free Stuff" title="Free gifts for you" src="https://i.imgur.com/0uVwkoZ.png"/></a> -->
-</p>
 
 ---
 ### 🧰 Languages and Tools
