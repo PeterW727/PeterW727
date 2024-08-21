@@ -15,7 +15,7 @@ I am a Cybersecurity candidate with an analytical mind and the ability to break 
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />  
-<img align="left" alt="Java" width="30px" style="padding-right:10px;" src = "https://static-00.iconduck.com/assets.00/assembly-icon-2048x2048-wspx42mf.png"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsR9zEOASbdiOEFfcEW0q5BwS5dT10S2APRw&s"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src = "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Kali-dragon-icon.svg/2048px-Kali-dragon-icon.svg.png"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/msdos/msdos-original.svg"/>
