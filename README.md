@@ -30,7 +30,9 @@ I am a Cybersecurity candidate with an analytical mind and the ability to break 
 # 
 #### Top Repositories
 
-
+<a href="https://github.com/PeterW727/DogPile-Solutions">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=PeterW727&repo=DogPile-Solutions&theme=buefy" />
+</a>
 <a href="https://github.com/Jarpletz/PrimeTimeHotel">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=jarpletz&repo=PrimeTimeHotel&theme=buefy" />
 </a>
