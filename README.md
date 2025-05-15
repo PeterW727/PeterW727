@@ -2,7 +2,7 @@
 
 **Computer Science Major with a Concentration in Cybersecurity and Minor in Math at Baylor University**
 
-I am a Cybersecurity candidate with an analytical mind and the ability to break down and solve complex problems. Strong communication skills with a strong mathematical foundation. Have the Ability to learn new concepts and technologies quickly with a consistent record of meeting project deadlines. Interests in cybersecurity, programming, and software development. Passionately seeking a Summer 2024 Internship.
+I am a Cybersecurity candidate with an analytical mind and the ability to break down and solve complex problems. Strong communication skills with a strong mathematical foundation. Have the Ability to learn new concepts and technologies quickly with a consistent record of meeting project deadlines. Interests in cybersecurity, programming, and software development. Passionately seeking a full time Cybersecurity Position.
 
 <!-- Social icons section -->
 **LinkedIn:**
@@ -14,6 +14,7 @@ I am a Cybersecurity candidate with an analytical mind and the ability to break 
 ### 🧰 Languages and Tools
 
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg"/>
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src = "https://upload.wikimedia.org/wikipedia/commons/2/20/Rustacean-orig-noshadow.svg"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" />  
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src = "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsR9zEOASbdiOEFfcEW0q5BwS5dT10S2APRw&s"/>
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src = "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg"/>
