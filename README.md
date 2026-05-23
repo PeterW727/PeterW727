@@ -54,7 +54,7 @@ With an analytical mindset and a strong mathematical foundation, I have a strong
 </p>
 
 ---
-
+<!--
 ### 📊 GitHub Stats
 
 <p align="center">
@@ -62,3 +62,4 @@ With an analytical mindset and a strong mathematical foundation, I have a strong
     <img src="https://github-readme-stats-fast.vercel.app/api?username=PeterW727&show_icons=true&theme=buefy" alt="Peter Whitcomb's GitHub stats" />
   </a>
 </p>
+-->
