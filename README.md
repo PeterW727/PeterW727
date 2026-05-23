@@ -12,7 +12,7 @@
 
 ### 👨‍💻 About Me
 
-I am a highly committed and results-driven Computer Science graduate with a B.S. from Baylor University (Summa Cum Laude, 3.97 GPA), featuring a concentration in Cybersecurity and a minor in Mathematics. During my time at Baylor, I proudly served as the President of the Cybersecurity Club.
+I am a highly committed and results-driven Computer Science graduate with a B.S. from Baylor University (Summa Cum Laude), featuring a concentration in Cybersecurity and a minor in Mathematics. During my time at Baylor, I proudly served as the President of the Cybersecurity Club.
 
 With an analytical mindset and a strong mathematical foundation, I have a strong foundation in cybersecurity, data structures, algorithms, programming principles, and machine learning development across multiple platforms. I specialize in breaking down complex problems and efficiently resolving technical issues to optimize system performance and maximize data security. I have a consistent track record of mastering new technologies quickly, leading projects efficiently, and meeting critical deadlines. 
 
